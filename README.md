@@ -25,7 +25,7 @@ The BM25 plus specifically addresses a deficiency of the standard BM25 in which 
 How to run:
 
 ```bash
-python3 project.py corpus.txt "<query>"
+python3 project.py <corpus-file-path> "<query>"
 ```
 
 How to test:
