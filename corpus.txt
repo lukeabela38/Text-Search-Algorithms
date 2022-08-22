@@ -1,6 +1,0 @@
-My name is Luke and I like dancing.
-CS50 is awesome.
-Luke previously studied Electrical and electronics engineering.
-Luke did a master of science in artificial intelligence.
-Luke enjoys algorithm development.
-I did engineering and artificial intelligence.
